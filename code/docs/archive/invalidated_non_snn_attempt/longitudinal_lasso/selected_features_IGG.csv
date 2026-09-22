@@ -1,0 +1,201 @@
+Dataset,Fold,Method,Feature,StabilityFrequency
+IGG,1,Univariate + Ridge,Protein S/PROS1,
+IGG,1,Univariate + Ridge,CD14,
+IGG,1,Univariate + Ridge,Serpin A10/ZPI,
+IGG,1,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,1,Univariate + Ridge,IGFBP-2,
+IGG,1,Univariate + Ridge,VAP-1/AOC3,
+IGG,1,Univariate + Ridge,Complement Component C9,
+IGG,1,Univariate + Ridge,CD23/Fc epsilon RII,
+IGG,1,Univariate + Ridge,MMP-7,
+IGG,1,Univariate + Ridge,Alpha-1-Microglobulin,
+IGG,1,Univariate + Ridge,Endocan/ESM-1,
+IGG,1,Univariate + Ridge,Reg3A,
+IGG,1,Univariate + Ridge,Serpin B3/SCCA1,
+IGG,1,Univariate + Ridge,CXCL10/IP-10/CRG-2,
+IGG,1,Univariate + Ridge,IL-23,
+IGG,1,Univariate + Ridge,vWF-A2,
+IGG,1,Univariate + Ridge,Angiopoietin-like Protein 3/ANGPTL3,
+IGG,1,Univariate + Ridge,CCL11/Eotaxin,
+IGG,1,Univariate + Ridge,L-Selectin/CD62L,
+IGG,1,Univariate + Ridge,OSteopontin/OPN,
+IGG,1,Longitudinal-LASSO + Ridge,Protein S/PROS1,1.0
+IGG,1,Longitudinal-LASSO + Ridge,Properdin,0.8
+IGG,1,Longitudinal-LASSO + Ridge,Serpin C1/Antithrombin-III,1.0
+IGG,1,Longitudinal-LASSO + Ridge,Serpin A10/ZPI,1.0
+IGG,1,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,1,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,1.0
+IGG,1,Longitudinal-LASSO + Ridge,VAP-1/AOC3,0.9
+IGG,1,Longitudinal-LASSO + Ridge,CCL2/JE/MCP-1,0.8
+IGG,1,Longitudinal-LASSO + Ridge,CD117/c-kit,0.8
+IGG,1,Longitudinal-LASSO + Ridge,IFN-beta,0.9
+IGG,1,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0
+IGG,1,Longitudinal-LASSO + Ridge,Serpin B3/SCCA1,0.7
+IGG,1,Longitudinal-LASSO + Ridge,CA125/MUC16,1.0
+IGG,1,Longitudinal-LASSO + Ridge,CXCL10/IP-10/CRG-2,0.9
+IGG,1,Longitudinal-LASSO + Ridge,IFN-alpha,0.9
+IGG,1,Longitudinal-LASSO + Ridge,vWF-A2,0.8
+IGG,1,Longitudinal-LASSO + Ridge,CCL11/Eotaxin,0.9
+IGG,1,Longitudinal-LASSO + Ridge,CCL24/Eotaxin-2/MPIF-2,0.9
+IGG,1,Longitudinal-LASSO + Ridge,L-Selectin/CD62L,0.8
+IGG,1,Longitudinal-LASSO + Ridge,Proprotein Convertase 9/PCSK9,0.7
+IGG,2,Univariate + Ridge,beta2-Microglobulin,
+IGG,2,Univariate + Ridge,Protein S/PROS1,
+IGG,2,Univariate + Ridge,CD14,
+IGG,2,Univariate + Ridge,Complement Component C2,
+IGG,2,Univariate + Ridge,LRG1,
+IGG,2,Univariate + Ridge,Serpin A10/ZPI,
+IGG,2,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,2,Univariate + Ridge,CCL14/HCC-1/HCC-3,
+IGG,2,Univariate + Ridge,IGFBP-2,
+IGG,2,Univariate + Ridge,VAP-1/AOC3,
+IGG,2,Univariate + Ridge,Complement Component C9,
+IGG,2,Univariate + Ridge,CD23/Fc epsilon RII,
+IGG,2,Univariate + Ridge,CXCL9/MIG,
+IGG,2,Univariate + Ridge,MMP-7,
+IGG,2,Univariate + Ridge,Contactin-1,
+IGG,2,Univariate + Ridge,IL-6R alpha,
+IGG,2,Univariate + Ridge,Reg3A,
+IGG,2,Univariate + Ridge,Serpin B3/SCCA1,
+IGG,2,Univariate + Ridge,CCL11/Eotaxin,
+IGG,2,Univariate + Ridge,CXCL6/GCP-2,
+IGG,2,Longitudinal-LASSO + Ridge,Protein S/PROS1,1.0
+IGG,2,Longitudinal-LASSO + Ridge,CD14,0.8
+IGG,2,Longitudinal-LASSO + Ridge,Serpin C1/Antithrombin-III,0.8
+IGG,2,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,2,Longitudinal-LASSO + Ridge,IGFBP-2,1.0
+IGG,2,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,0.9
+IGG,2,Longitudinal-LASSO + Ridge,VAP-1/AOC3,1.0
+IGG,2,Longitudinal-LASSO + Ridge,CCL5/RANTES,0.8
+IGG,2,Longitudinal-LASSO + Ridge,Complement Component C9,1.0
+IGG,2,Longitudinal-LASSO + Ridge,CCL19/MIP-3 beta,0.8
+IGG,2,Longitudinal-LASSO + Ridge,Contactin-1,1.0
+IGG,2,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0
+IGG,2,Longitudinal-LASSO + Ridge,Serpin B3/SCCA1,1.0
+IGG,2,Longitudinal-LASSO + Ridge,CA125/MUC16,0.9
+IGG,2,Longitudinal-LASSO + Ridge,CXCL1/GRO alpha/KC/CINC-1,1.0
+IGG,2,Longitudinal-LASSO + Ridge,CXCL10/IP-10/CRG-2,0.9
+IGG,2,Longitudinal-LASSO + Ridge,IFN-alpha,0.8
+IGG,2,Longitudinal-LASSO + Ridge,vWF-A2,0.8
+IGG,2,Longitudinal-LASSO + Ridge,CCL11/Eotaxin,1.0
+IGG,2,Longitudinal-LASSO + Ridge,LIF,0.8
+IGG,3,Univariate + Ridge,Protein S/PROS1,
+IGG,3,Univariate + Ridge,CD14,
+IGG,3,Univariate + Ridge,Complement Component C2,
+IGG,3,Univariate + Ridge,LRG1,
+IGG,3,Univariate + Ridge,Serpin A10/ZPI,
+IGG,3,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,3,Univariate + Ridge,Myeloperoxidase/MPO,
+IGG,3,Univariate + Ridge,EN-RAGE/S100A12,
+IGG,3,Univariate + Ridge,Myoglobin,
+IGG,3,Univariate + Ridge,IL-10,
+IGG,3,Univariate + Ridge,MMP-8,
+IGG,3,Univariate + Ridge,TGF-alpha,
+IGG,3,Univariate + Ridge,Alpha-1-Microglobulin,
+IGG,3,Univariate + Ridge,Serpin B3/SCCA1,
+IGG,3,Univariate + Ridge,vWF-A2,
+IGG,3,Univariate + Ridge,CCL11/Eotaxin,
+IGG,3,Univariate + Ridge,CD40 Ligand/TNFSF5,
+IGG,3,Univariate + Ridge,CXCL6/GCP-2,
+IGG,3,Univariate + Ridge,IL-3,
+IGG,3,Univariate + Ridge,TRAIL/TNFSF10,
+IGG,3,Longitudinal-LASSO + Ridge,alpha 2-Macroglobulin,0.9
+IGG,3,Longitudinal-LASSO + Ridge,CD14,1.0
+IGG,3,Longitudinal-LASSO + Ridge,Serpin C1/Antithrombin-III,0.8
+IGG,3,Longitudinal-LASSO + Ridge,Serpin A10/ZPI,1.0
+IGG,3,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,3,Longitudinal-LASSO + Ridge,Coagulation Factor XIV/Protein C,0.9
+IGG,3,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,1.0
+IGG,3,Longitudinal-LASSO + Ridge,VAP-1/AOC3,0.9
+IGG,3,Longitudinal-LASSO + Ridge,Complement Component C9,0.8
+IGG,3,Longitudinal-LASSO + Ridge,EN-RAGE/S100A12,0.8
+IGG,3,Longitudinal-LASSO + Ridge,Contactin-1,1.0
+IGG,3,Longitudinal-LASSO + Ridge,GM-CSF,0.9
+IGG,3,Longitudinal-LASSO + Ridge,Leptin/OB,0.9
+IGG,3,Longitudinal-LASSO + Ridge,ADAMTS13,1.0
+IGG,3,Longitudinal-LASSO + Ridge,CA125/MUC16,0.8
+IGG,3,Longitudinal-LASSO + Ridge,SP-D,0.8
+IGG,3,Longitudinal-LASSO + Ridge,vWF-A2,0.9
+IGG,3,Longitudinal-LASSO + Ridge,CXCL6/GCP-2,0.9
+IGG,3,Longitudinal-LASSO + Ridge,Fas Ligand/TNFSF6,0.8
+IGG,3,Longitudinal-LASSO + Ridge,LIF,0.8
+IGG,4,Univariate + Ridge,alpha 2-Macroglobulin,
+IGG,4,Univariate + Ridge,Protein S/PROS1,
+IGG,4,Univariate + Ridge,CD14,
+IGG,4,Univariate + Ridge,Serpin A10/ZPI,
+IGG,4,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,4,Univariate + Ridge,CCL14/HCC-1/HCC-3,
+IGG,4,Univariate + Ridge,IGFBP-2,
+IGG,4,Univariate + Ridge,VAP-1/AOC3,
+IGG,4,Univariate + Ridge,Complement Component C9,
+IGG,4,Univariate + Ridge,CCL19/MIP-3 beta,
+IGG,4,Univariate + Ridge,CD23/Fc epsilon RII,
+IGG,4,Univariate + Ridge,MMP-7,
+IGG,4,Univariate + Ridge,u-Plasminogen Activator (uPA)/Urokinase,
+IGG,4,Univariate + Ridge,Oncostatin M/OSM,
+IGG,4,Univariate + Ridge,Reg3A,
+IGG,4,Univariate + Ridge,Serpin B3/SCCA1,
+IGG,4,Univariate + Ridge,CCL11/Eotaxin,
+IGG,4,Univariate + Ridge,CXCL6/GCP-2,
+IGG,4,Univariate + Ridge,L-Selectin/CD62L,
+IGG,4,Univariate + Ridge,TRAIL/TNFSF10,
+IGG,4,Longitudinal-LASSO + Ridge,alpha 2-Macroglobulin,0.9
+IGG,4,Longitudinal-LASSO + Ridge,Protein S/PROS1,0.9
+IGG,4,Longitudinal-LASSO + Ridge,Serpin C1/Antithrombin-III,1.0
+IGG,4,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,4,Longitudinal-LASSO + Ridge,IGFBP-2,0.9
+IGG,4,Longitudinal-LASSO + Ridge,VAP-1/AOC3,1.0
+IGG,4,Longitudinal-LASSO + Ridge,CCL19/MIP-3 beta,0.9
+IGG,4,Longitudinal-LASSO + Ridge,BMP-10,0.8
+IGG,4,Longitudinal-LASSO + Ridge,Contactin-1,0.8
+IGG,4,Longitudinal-LASSO + Ridge,MAdCAM-1,1.0
+IGG,4,Longitudinal-LASSO + Ridge,CEACAM-1/CD66a,1.0
+IGG,4,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0
+IGG,4,Longitudinal-LASSO + Ridge,Oncostatin M/OSM,0.8
+IGG,4,Longitudinal-LASSO + Ridge,CA125/MUC16,1.0
+IGG,4,Longitudinal-LASSO + Ridge,IL-18/IL-1F4,0.9
+IGG,4,Longitudinal-LASSO + Ridge,MIF,0.9
+IGG,4,Longitudinal-LASSO + Ridge,vWF-A2,1.0
+IGG,4,Longitudinal-LASSO + Ridge,CCL11/Eotaxin,0.8
+IGG,4,Longitudinal-LASSO + Ridge,L-Selectin/CD62L,0.9
+IGG,4,Longitudinal-LASSO + Ridge,TRAIL/TNFSF10,1.0
+IGG,5,Univariate + Ridge,beta2-Microglobulin,
+IGG,5,Univariate + Ridge,CD14,
+IGG,5,Univariate + Ridge,LBP,
+IGG,5,Univariate + Ridge,LRG1,
+IGG,5,Univariate + Ridge,Serpin A10/ZPI,
+IGG,5,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,5,Univariate + Ridge,CCL14/HCC-1/HCC-3,
+IGG,5,Univariate + Ridge,Galectin-3BP/MAC-2BP,
+IGG,5,Univariate + Ridge,Complement Component C9,
+IGG,5,Univariate + Ridge,TIMP-1,
+IGG,5,Univariate + Ridge,CXCL9/MIG,
+IGG,5,Univariate + Ridge,MMP-7,
+IGG,5,Univariate + Ridge,Galectin-9,
+IGG,5,Univariate + Ridge,VCAM-1/CD106,
+IGG,5,Univariate + Ridge,CEACAM-1/CD66a,
+IGG,5,Univariate + Ridge,Furin,
+IGG,5,Univariate + Ridge,Resistin,
+IGG,5,Univariate + Ridge,SCGF/CLEC11a,
+IGG,5,Univariate + Ridge,TRAIL R2/TNFRSF10B,
+IGG,5,Univariate + Ridge,PD-L1/B7-H1,
+IGG,5,Longitudinal-LASSO + Ridge,alpha 2-Macroglobulin,0.9
+IGG,5,Longitudinal-LASSO + Ridge,Protein S/PROS1,1.0
+IGG,5,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,5,Longitudinal-LASSO + Ridge,Coagulation Factor XIV/Protein C,0.8
+IGG,5,Longitudinal-LASSO + Ridge,IGFBP-2,0.9
+IGG,5,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,0.9
+IGG,5,Longitudinal-LASSO + Ridge,VAP-1/AOC3,1.0
+IGG,5,Longitudinal-LASSO + Ridge,IL-10,1.0
+IGG,5,Longitudinal-LASSO + Ridge,LIGHT/TNFSF14,0.8
+IGG,5,Longitudinal-LASSO + Ridge,Contactin-1,1.0
+IGG,5,Longitudinal-LASSO + Ridge,G-CSF,0.9
+IGG,5,Longitudinal-LASSO + Ridge,Leptin/OB,0.8
+IGG,5,Longitudinal-LASSO + Ridge,CD117/c-kit,0.8
+IGG,5,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0
+IGG,5,Longitudinal-LASSO + Ridge,Thrombospondin-2,0.8
+IGG,5,Longitudinal-LASSO + Ridge,IFN-alpha,0.8
+IGG,5,Longitudinal-LASSO + Ridge,vWF-A2,0.9
+IGG,5,Longitudinal-LASSO + Ridge,CCL11/Eotaxin,0.8
+IGG,5,Longitudinal-LASSO + Ridge,CD40 Ligand/TNFSF5,1.0
+IGG,5,Longitudinal-LASSO + Ridge,Fas Ligand/TNFSF6,0.8

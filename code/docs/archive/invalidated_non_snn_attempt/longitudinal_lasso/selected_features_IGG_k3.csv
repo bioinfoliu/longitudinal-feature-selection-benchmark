@@ -1,0 +1,31 @@
+Dataset,Fold,Method,Feature,StabilityFrequency
+IGG,1,Univariate + Ridge,CD23/Fc epsilon RII,
+IGG,1,Univariate + Ridge,MMP-7,
+IGG,1,Univariate + Ridge,L-Selectin/CD62L,
+IGG,1,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,1.0
+IGG,1,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0
+IGG,1,Longitudinal-LASSO + Ridge,CA125/MUC16,1.0
+IGG,2,Univariate + Ridge,CD14,
+IGG,2,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,2,Univariate + Ridge,CCL11/Eotaxin,
+IGG,2,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,2,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0
+IGG,2,Longitudinal-LASSO + Ridge,Serpin B3/SCCA1,1.0
+IGG,3,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,3,Univariate + Ridge,Serpin B3/SCCA1,
+IGG,3,Univariate + Ridge,CCL11/Eotaxin,
+IGG,3,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,3,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,1.0
+IGG,3,Longitudinal-LASSO + Ridge,Contactin-1,1.0
+IGG,4,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,4,Univariate + Ridge,CCL11/Eotaxin,
+IGG,4,Univariate + Ridge,CXCL6/GCP-2,
+IGG,4,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,4,Longitudinal-LASSO + Ridge,MAdCAM-1,1.0
+IGG,4,Longitudinal-LASSO + Ridge,CA125/MUC16,1.0
+IGG,5,Univariate + Ridge,BCMA/TNFRSF17,
+IGG,5,Univariate + Ridge,Galectin-9,
+IGG,5,Univariate + Ridge,PD-L1/B7-H1,
+IGG,5,Longitudinal-LASSO + Ridge,Protein S/PROS1,1.0
+IGG,5,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+IGG,5,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0

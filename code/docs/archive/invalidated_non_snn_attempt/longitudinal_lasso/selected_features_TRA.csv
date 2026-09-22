@@ -1,0 +1,201 @@
+Dataset,Fold,Method,Feature,StabilityFrequency
+TRA,1,Univariate + Ridge,Galectin-3,
+TRA,1,Univariate + Ridge,Myeloperoxidase/MPO,
+TRA,1,Univariate + Ridge,EN-RAGE/S100A12,
+TRA,1,Univariate + Ridge,MMP-9,
+TRA,1,Univariate + Ridge,TIMP-1,
+TRA,1,Univariate + Ridge,IL-10,
+TRA,1,Univariate + Ridge,LIGHT/TNFSF14,
+TRA,1,Univariate + Ridge,MMP-8,
+TRA,1,Univariate + Ridge,TGF-alpha,
+TRA,1,Univariate + Ridge,TREM-1,
+TRA,1,Univariate + Ridge,Galectin-9,
+TRA,1,Univariate + Ridge,VCAM-1/CD106,
+TRA,1,Univariate + Ridge,S100A9,
+TRA,1,Univariate + Ridge,Dkk-1,
+TRA,1,Univariate + Ridge,Neuregulin-1 beta 1/NRG1 beta 1,
+TRA,1,Univariate + Ridge,Pentraxin 3/TSG-14,
+TRA,1,Univariate + Ridge,ST2/IL-33R,
+TRA,1,Univariate + Ridge,Fas Ligand/TNFSF6,
+TRA,1,Univariate + Ridge,IL-17E/IL-25,
+TRA,1,Univariate + Ridge,Proprotein Convertase 9/PCSK9,
+TRA,1,Longitudinal-LASSO + Ridge,Fetuin A/AHSG,1.0
+TRA,1,Longitudinal-LASSO + Ridge,Protein S/PROS1,1.0
+TRA,1,Longitudinal-LASSO + Ridge,Properdin,1.0
+TRA,1,Longitudinal-LASSO + Ridge,Serpin C1/Antithrombin-III,1.0
+TRA,1,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,0.9
+TRA,1,Longitudinal-LASSO + Ridge,MMP-2,0.9
+TRA,1,Longitudinal-LASSO + Ridge,MMP-9,1.0
+TRA,1,Longitudinal-LASSO + Ridge,MMP-7,1.0
+TRA,1,Longitudinal-LASSO + Ridge,TGF-alpha,0.9
+TRA,1,Longitudinal-LASSO + Ridge,VEGF,1.0
+TRA,1,Longitudinal-LASSO + Ridge,BAFF/BLyS/TNFSF13B,0.9
+TRA,1,Longitudinal-LASSO + Ridge,Contactin-1,1.0
+TRA,1,Longitudinal-LASSO + Ridge,Leptin/OB,0.9
+TRA,1,Longitudinal-LASSO + Ridge,CA125/MUC16,1.0
+TRA,1,Longitudinal-LASSO + Ridge,CXCL1/GRO alpha/KC/CINC-1,1.0
+TRA,1,Longitudinal-LASSO + Ridge,EGF,0.9
+TRA,1,Longitudinal-LASSO + Ridge,Growth Hormone,0.9
+TRA,1,Longitudinal-LASSO + Ridge,M-CSF,1.0
+TRA,1,Longitudinal-LASSO + Ridge,vWF-A2,0.9
+TRA,1,Longitudinal-LASSO + Ridge,Fas Ligand/TNFSF6,1.0
+TRA,2,Univariate + Ridge,Galectin-3,
+TRA,2,Univariate + Ridge,Myeloperoxidase/MPO,
+TRA,2,Univariate + Ridge,MMP-9,
+TRA,2,Univariate + Ridge,TIMP-1,
+TRA,2,Univariate + Ridge,IL-10,
+TRA,2,Univariate + Ridge,MMP-8,
+TRA,2,Univariate + Ridge,TGF-alpha,
+TRA,2,Univariate + Ridge,TREM-1,
+TRA,2,Univariate + Ridge,Galectin-9,
+TRA,2,Univariate + Ridge,VCAM-1/CD106,
+TRA,2,Univariate + Ridge,Furin,
+TRA,2,Univariate + Ridge,SCGF/CLEC11a,
+TRA,2,Univariate + Ridge,Serpin B3/SCCA1,
+TRA,2,Univariate + Ridge,Chitinase 3-like 1,
+TRA,2,Univariate + Ridge,M-CSF,
+TRA,2,Univariate + Ridge,Pentraxin 3/TSG-14,
+TRA,2,Univariate + Ridge,ST2/IL-33R,
+TRA,2,Univariate + Ridge,Fas Ligand/TNFSF6,
+TRA,2,Univariate + Ridge,IL-17E/IL-25,
+TRA,2,Univariate + Ridge,Proprotein Convertase 9/PCSK9,
+TRA,2,Longitudinal-LASSO + Ridge,Fetuin A/AHSG,0.9
+TRA,2,Longitudinal-LASSO + Ridge,MMP-9,1.0
+TRA,2,Longitudinal-LASSO + Ridge,TGF-alpha,1.0
+TRA,2,Longitudinal-LASSO + Ridge,Contactin-1,1.0
+TRA,2,Longitudinal-LASSO + Ridge,CXCL13/BLC/BCA-1,1.0
+TRA,2,Longitudinal-LASSO + Ridge,Endocan/ESM-1,0.9
+TRA,2,Longitudinal-LASSO + Ridge,IL-17/IL-17A,1.0
+TRA,2,Longitudinal-LASSO + Ridge,NT-4,1.0
+TRA,2,Longitudinal-LASSO + Ridge,CCL26/Eotaxin-3,0.9
+TRA,2,Longitudinal-LASSO + Ridge,IL-11,1.0
+TRA,2,Longitudinal-LASSO + Ridge,MCAM/CD146,0.9
+TRA,2,Longitudinal-LASSO + Ridge,Serpin B3/SCCA1,1.0
+TRA,2,Longitudinal-LASSO + Ridge,ADAMTS13,1.0
+TRA,2,Longitudinal-LASSO + Ridge,CA125/MUC16,1.0
+TRA,2,Longitudinal-LASSO + Ridge,CXCL1/GRO alpha/KC/CINC-1,1.0
+TRA,2,Longitudinal-LASSO + Ridge,EGF,1.0
+TRA,2,Longitudinal-LASSO + Ridge,M-CSF,1.0
+TRA,2,Longitudinal-LASSO + Ridge,vWF-A2,1.0
+TRA,2,Longitudinal-LASSO + Ridge,Fas Ligand/TNFSF6,1.0
+TRA,2,Longitudinal-LASSO + Ridge,IL-17E/IL-25,0.8
+TRA,3,Univariate + Ridge,Galectin-3,
+TRA,3,Univariate + Ridge,Myeloperoxidase/MPO,
+TRA,3,Univariate + Ridge,EN-RAGE/S100A12,
+TRA,3,Univariate + Ridge,Myoglobin,
+TRA,3,Univariate + Ridge,TIMP-1,
+TRA,3,Univariate + Ridge,IL-10,
+TRA,3,Univariate + Ridge,MMP-8,
+TRA,3,Univariate + Ridge,TGF-alpha,
+TRA,3,Univariate + Ridge,VEGF,
+TRA,3,Univariate + Ridge,Galectin-9,
+TRA,3,Univariate + Ridge,VCAM-1/CD106,
+TRA,3,Univariate + Ridge,Furin,
+TRA,3,Univariate + Ridge,S100A9,
+TRA,3,Univariate + Ridge,Serpin B3/SCCA1,
+TRA,3,Univariate + Ridge,Pentraxin 3/TSG-14,
+TRA,3,Univariate + Ridge,ST2/IL-33R,
+TRA,3,Univariate + Ridge,Fas Ligand/TNFSF6,
+TRA,3,Univariate + Ridge,IL-17E/IL-25,
+TRA,3,Univariate + Ridge,PD-L1/B7-H1,
+TRA,3,Univariate + Ridge,Proprotein Convertase 9/PCSK9,
+TRA,3,Longitudinal-LASSO + Ridge,Fetuin A/AHSG,1.0
+TRA,3,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+TRA,3,Longitudinal-LASSO + Ridge,Fibroblast Activation Protein alpha/FAP,0.9
+TRA,3,Longitudinal-LASSO + Ridge,Galectin-3BP/MAC-2BP,0.9
+TRA,3,Longitudinal-LASSO + Ridge,IGFBP-2,0.9
+TRA,3,Longitudinal-LASSO + Ridge,Myeloperoxidase/MPO,0.8
+TRA,3,Longitudinal-LASSO + Ridge,Myoglobin,0.9
+TRA,3,Longitudinal-LASSO + Ridge,MMP-7,1.0
+TRA,3,Longitudinal-LASSO + Ridge,TGF-alpha,1.0
+TRA,3,Longitudinal-LASSO + Ridge,VEGF,1.0
+TRA,3,Longitudinal-LASSO + Ridge,Leptin/OB,1.0
+TRA,3,Longitudinal-LASSO + Ridge,IL-11,1.0
+TRA,3,Longitudinal-LASSO + Ridge,CXCL1/GRO alpha/KC/CINC-1,0.9
+TRA,3,Longitudinal-LASSO + Ridge,Growth Hormone,0.9
+TRA,3,Longitudinal-LASSO + Ridge,Pentraxin 3/TSG-14,0.9
+TRA,3,Longitudinal-LASSO + Ridge,Angiopoietin-like Protein 3/ANGPTL3,0.9
+TRA,3,Longitudinal-LASSO + Ridge,CCL11/Eotaxin,1.0
+TRA,3,Longitudinal-LASSO + Ridge,Fas Ligand/TNFSF6,1.0
+TRA,3,Longitudinal-LASSO + Ridge,IL-17E/IL-25,0.9
+TRA,3,Longitudinal-LASSO + Ridge,L-Selectin/CD62L,1.0
+TRA,4,Univariate + Ridge,Galectin-3,
+TRA,4,Univariate + Ridge,MMP-9,
+TRA,4,Univariate + Ridge,IL-1 beta/IL-1F2,
+TRA,4,Univariate + Ridge,IL-10,
+TRA,4,Univariate + Ridge,MMP-8,
+TRA,4,Univariate + Ridge,TGF-alpha,
+TRA,4,Univariate + Ridge,Galectin-9,
+TRA,4,Univariate + Ridge,VCAM-1/CD106,
+TRA,4,Univariate + Ridge,Furin,
+TRA,4,Univariate + Ridge,SCGF/CLEC11a,
+TRA,4,Univariate + Ridge,Chitinase 3-like 1,
+TRA,4,Univariate + Ridge,Dkk-1,
+TRA,4,Univariate + Ridge,HGF,
+TRA,4,Univariate + Ridge,M-CSF,
+TRA,4,Univariate + Ridge,Neuregulin-1 beta 1/NRG1 beta 1,
+TRA,4,Univariate + Ridge,Pentraxin 3/TSG-14,
+TRA,4,Univariate + Ridge,ST2/IL-33R,
+TRA,4,Univariate + Ridge,Fas Ligand/TNFSF6,
+TRA,4,Univariate + Ridge,IL-17E/IL-25,
+TRA,4,Univariate + Ridge,Proprotein Convertase 9/PCSK9,
+TRA,4,Longitudinal-LASSO + Ridge,Serpin C1/Antithrombin-III,1.0
+TRA,4,Longitudinal-LASSO + Ridge,Galectin-3BP/MAC-2BP,1.0
+TRA,4,Longitudinal-LASSO + Ridge,MMP-9,0.9
+TRA,4,Longitudinal-LASSO + Ridge,Granzyme B,0.9
+TRA,4,Longitudinal-LASSO + Ridge,MMP-7,1.0
+TRA,4,Longitudinal-LASSO + Ridge,TGF-alpha,1.0
+TRA,4,Longitudinal-LASSO + Ridge,VEGF,1.0
+TRA,4,Longitudinal-LASSO + Ridge,Leptin/OB,1.0
+TRA,4,Longitudinal-LASSO + Ridge,MCAM/CD146,1.0
+TRA,4,Longitudinal-LASSO + Ridge,CA125/MUC16,1.0
+TRA,4,Longitudinal-LASSO + Ridge,CXCL1/GRO alpha/KC/CINC-1,0.9
+TRA,4,Longitudinal-LASSO + Ridge,EGF,1.0
+TRA,4,Longitudinal-LASSO + Ridge,Growth Hormone,1.0
+TRA,4,Longitudinal-LASSO + Ridge,M-CSF,1.0
+TRA,4,Longitudinal-LASSO + Ridge,vWF-A2,0.9
+TRA,4,Longitudinal-LASSO + Ridge,CCL11/Eotaxin,1.0
+TRA,4,Longitudinal-LASSO + Ridge,Fas Ligand/TNFSF6,1.0
+TRA,4,Longitudinal-LASSO + Ridge,IL-17E/IL-25,1.0
+TRA,4,Longitudinal-LASSO + Ridge,L-Selectin/CD62L,1.0
+TRA,4,Longitudinal-LASSO + Ridge,VEGFR1/Flt-1,1.0
+TRA,5,Univariate + Ridge,Fetuin A/AHSG,
+TRA,5,Univariate + Ridge,Galectin-3,
+TRA,5,Univariate + Ridge,MMP-9,
+TRA,5,Univariate + Ridge,TIMP-1,
+TRA,5,Univariate + Ridge,IL-10,
+TRA,5,Univariate + Ridge,TGF-alpha,
+TRA,5,Univariate + Ridge,TREM-1,
+TRA,5,Univariate + Ridge,Endocan/ESM-1,
+TRA,5,Univariate + Ridge,VCAM-1/CD106,
+TRA,5,Univariate + Ridge,Coagulation Factor II/Tissue Factor,
+TRA,5,Univariate + Ridge,S100A9,
+TRA,5,Univariate + Ridge,CA125/MUC16,
+TRA,5,Univariate + Ridge,Chitinase 3-like 1,
+TRA,5,Univariate + Ridge,GDF-15,
+TRA,5,Univariate + Ridge,Pentraxin 3/TSG-14,
+TRA,5,Univariate + Ridge,SP-D,
+TRA,5,Univariate + Ridge,ST2/IL-33R,
+TRA,5,Univariate + Ridge,Fas Ligand/TNFSF6,
+TRA,5,Univariate + Ridge,IL-17E/IL-25,
+TRA,5,Univariate + Ridge,Nectin-4,
+TRA,5,Longitudinal-LASSO + Ridge,Fetuin A/AHSG,1.0
+TRA,5,Longitudinal-LASSO + Ridge,BCMA/TNFRSF17,1.0
+TRA,5,Longitudinal-LASSO + Ridge,MMP-9,0.9
+TRA,5,Longitudinal-LASSO + Ridge,IL-8/CXCL8,1.0
+TRA,5,Longitudinal-LASSO + Ridge,MMP-7,0.9
+TRA,5,Longitudinal-LASSO + Ridge,TGF-alpha,1.0
+TRA,5,Longitudinal-LASSO + Ridge,CXCL-11/I-TAC,1.0
+TRA,5,Longitudinal-LASSO + Ridge,G-CSF,1.0
+TRA,5,Longitudinal-LASSO + Ridge,IL-17/IL-17A,1.0
+TRA,5,Longitudinal-LASSO + Ridge,IL-4,1.0
+TRA,5,Longitudinal-LASSO + Ridge,Leptin/OB,1.0
+TRA,5,Longitudinal-LASSO + Ridge,VCAM-1/CD106,0.9
+TRA,5,Longitudinal-LASSO + Ridge,IL-11,1.0
+TRA,5,Longitudinal-LASSO + Ridge,Chitinase 3-like 1,1.0
+TRA,5,Longitudinal-LASSO + Ridge,Growth Hormone,1.0
+TRA,5,Longitudinal-LASSO + Ridge,CD40 Ligand/TNFSF5,0.9
+TRA,5,Longitudinal-LASSO + Ridge,Fas Ligand/TNFSF6,1.0
+TRA,5,Longitudinal-LASSO + Ridge,IL-17E/IL-25,1.0
+TRA,5,Longitudinal-LASSO + Ridge,L-Selectin/CD62L,1.0
+TRA,5,Longitudinal-LASSO + Ridge,TRAIL/TNFSF10,0.9

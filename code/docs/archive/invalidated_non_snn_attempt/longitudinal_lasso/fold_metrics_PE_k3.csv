@@ -1,0 +1,11 @@
+Dataset,Task,Fold,Method,n_features,AUROC,Accuracy
+PE,classification,1,Univariate + Logistic,3,0.3838383838383838,0.45
+PE,classification,1,Longitudinal-LASSO + Logistic,3,0.5555555555555556,0.45
+PE,classification,2,Univariate + Logistic,3,0.6727272727272728,0.6666666666666666
+PE,classification,2,Longitudinal-LASSO + Logistic,3,0.6727272727272727,0.6190476190476191
+PE,classification,3,Univariate + Logistic,3,0.48863636363636365,0.42105263157894735
+PE,classification,3,Longitudinal-LASSO + Logistic,3,0.6818181818181818,0.631578947368421
+PE,classification,4,Univariate + Logistic,3,0.7840909090909091,0.7368421052631579
+PE,classification,4,Longitudinal-LASSO + Logistic,3,0.9090909090909091,0.8947368421052632
+PE,classification,5,Univariate + Logistic,3,0.7727272727272727,0.6842105263157895
+PE,classification,5,Longitudinal-LASSO + Logistic,3,0.8295454545454546,0.7368421052631579
