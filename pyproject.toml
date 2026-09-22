@@ -3,7 +3,7 @@ requires = ["setuptools>=75", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "longitudinal-feature-selection-benchmark"
+name = "Benchmarking feature selection for longitudinal biomedical data reveals task-dependent performance"
 version = "1.0.0"
 description = "Leakage-controlled, participant-aware benchmarking of feature-selection methods for longitudinal biomedical data"
 readme = "README.md"
