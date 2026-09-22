@@ -1,9 +1,0 @@
-SourceRun,Path,RepeatMetricRows,SelectionFilePresent
-benchmark_full50,/home/zliu/ctsnn/results/main_benchmark/benchmark_full50,5400,True
-olink_50,/home/zliu/ctsnn/results/new_datasets/olink_50,600,True
-brist1d_50,/home/zliu/ctsnn/results/new_datasets/brist1d_50,600,True
-geeverse_full50,/home/zliu/ctsnn/results/main_benchmark/longitudinal_extensions/geeverse_full50,400,True
-geo_expansion_50,/home/zliu/ctsnn/results/new_datasets/geo_expansion_50,1200,True
-gse48023_subject_50,/home/zliu/ctsnn/results/new_datasets/gse48023_subject_50,650,True
-glmmlasso_full50,/home/zliu/ctsnn/results/main_benchmark/longitudinal_extensions/glmmlasso_full50/aggregated,700,True
-pgee_full50,/home/zliu/ctsnn/results/main_benchmark/longitudinal_extensions/pgee_full50/aggregated,700,True
