@@ -22,8 +22,8 @@ dependencies = [
 test = ["pytest==8.4.2"]
 
 [project.urls]
-Repository = "https://github.com/USERNAME/longitudinal-feature-selection-benchmark"
-Issues = "https://github.com/USERNAME/longitudinal-feature-selection-benchmark/issues"
+Repository = "https://github.com/bioinfoliu/longitudinal-feature-selection-benchmark"
+Issues = "https://github.com/bioinfoliu/longitudinal-feature-selection-benchmark/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
