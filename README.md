@@ -1,4 +1,4 @@
-# Longitudinal Feature-Selection Benchmark
+# Benchmarking feature selection for longitudinal biomedical data reveals task-dependent performance
 
 A leakage-controlled and participant-aware benchmark of feature-selection
 methods for longitudinal biomedical data. The repeated benchmark compares 15
