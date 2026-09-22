@@ -131,9 +131,3 @@ src/               selectors, evaluation pipeline, and analyses
 tests/             automated smoke test
 results/summary/   compact completed publication results
 ```
-
-## License
-
-MIT. Dataset licenses and access conditions remain those of the original data
-providers and are not superseded by this software license.
-
