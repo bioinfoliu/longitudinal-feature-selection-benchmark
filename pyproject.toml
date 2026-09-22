@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=75", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "longitudinal-feature-selection-benchmark"
+version = "1.0.0"
+description = "Leakage-controlled, participant-aware benchmarking of feature-selection methods for longitudinal biomedical data"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+authors = [{name = "Zhe Liu"}]
+dependencies = [
+  "numpy==2.4.2",
+  "pandas==3.0.0",
+  "scipy==1.17.0",
+  "scikit-learn==1.8.0",
+  "matplotlib==3.10.8",
+]
+
+[project.optional-dependencies]
+test = ["pytest==8.4.2"]
+
+[project.urls]
+Repository = "https://github.com/USERNAME/longitudinal-feature-selection-benchmark"
+Issues = "https://github.com/USERNAME/longitudinal-feature-selection-benchmark/issues"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = ["ctsnn", "feature_selectors", "longitudinal_lasso"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["longfsbench*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+

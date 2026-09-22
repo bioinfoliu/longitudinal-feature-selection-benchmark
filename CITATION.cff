@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark, please cite the associated article and archived release."
+title: "Longitudinal Feature-Selection Benchmark"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Zhe
+version: 1.0.0
+date-released: 2026-09-22
+license: MIT
+repository-code: "https://github.com/USERNAME/longitudinal-feature-selection-benchmark"
+

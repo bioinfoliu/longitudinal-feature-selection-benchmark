@@ -1,0 +1,4 @@
+Method,CompletedSlurmTasks,CompletedDatasetRepeats,TotalWallHours,MedianTaskWallSeconds,IQRTaskWallSeconds,TotalCPUHours,MedianPeakRSS_MB,MaximumPeakRSS_MB,AllocatedCPUs,Interpretation
+PGEE,700,700,44.64083333333333,107.5,133.75,48.45649944444444,170.625,259.25,2.0,"Retrospective Slurm audit; job granularity differs by adapter, so not a controlled speed comparison"
+geeVerse,50,400,21.190277777777776,1495.5,372.0,21.662048888888894,439.6,456.38,2.0,"Retrospective Slurm audit; job granularity differs by adapter, so not a controlled speed comparison"
+glmmLasso,700,700,23.474444444444444,104.0,68.0,26.145972222222223,329.605,484.46,2.0,"Retrospective Slurm audit; job granularity differs by adapter, so not a controlled speed comparison"

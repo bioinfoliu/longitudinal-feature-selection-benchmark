@@ -1,0 +1,17 @@
+BenchmarkLabel,MethodFamily,SoftwareUsed,ImplementationStatus,LongitudinalAware,ImportantQualification
+Lasso,L1-penalized model,scikit-learn,Library implementation,No,Equal observation weights
+ElasticNet,Elastic-net model,scikit-learn,Library implementation,No,Equal observation weights
+RandomForest,Tree-ensemble importance,scikit-learn ExtraTrees,Library implementation under benchmark label,No,The retained benchmark label maps to ExtraTrees rather than RandomForestClassifier
+MutualInfo,Mutual-information filter,scikit-learn,Library implementation,No,Outcome-association ranking
+StabilitySelection,Stability selection,Project wrapper around scikit-learn,Compatible reimplementation,Partial,Participants rather than visits are subsampled
+Stabl-RP,Random-permutation stability logic,Project implementation,Compatible reimplementation,Partial,Not a byte-identical run of the official Stabl package
+Boruta,Shadow-feature selection principle,Project ExtraTrees implementation,Compatible reimplementation,No,Fixed-panel ranking rather than official Boruta accept/reject decisions
+mRMR,Minimum redundancy maximum relevance,Project greedy implementation,Compatible reimplementation,No,Relevance minus mean absolute-correlation redundancy
+LongGroupLasso,Between/within grouped sparsity,Project proximal-gradient implementation,Project adaptation,Yes,Between-participant means and within-participant deviations are paired
+LLSS,Longitudinal-LASSO-inspired stability selector,Project implementation,Project adaptation,Yes,Not the official Longitudinal LASSO software
+geeVerse,Penalized quantile GEE,Official CRAN geeVerse package,Official package adapter,Yes,Regression tasks only; package ranking embedded in common benchmark
+glmmLasso,Penalized generalized linear mixed model,Official CRAN glmmLasso package,Official package adapter,Yes,Package ranking embedded in common benchmark
+PGEE,Penalized generalized estimating equations,Official CRAN PGEE package,Official package adapter,Yes,Package ranking embedded in common benchmark
+SNN-FS,Shared-nearest-neighbor observation weighting,This repository,Proposed method,No,Weighted elastic-net feature ranking
+OutcomeSNN-FS,Outcome-coherent SNN weighting,This repository,Proposed method,No,SNN support modulated by local outcome coherence
+
