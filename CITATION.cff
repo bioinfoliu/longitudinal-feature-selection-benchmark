@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or benchmark, please cite the associated article and archived release."
-title: "Longitudinal Feature-Selection Benchmark"
+title: "Benchmarking feature selection for longitudinal biomedical data reveals task-dependent performance"
 type: software
 authors:
   - family-names: Liu
@@ -8,5 +8,5 @@ authors:
 version: 1.0.0
 date-released: 2026-09-22
 license: MIT
-repository-code: "https://github.com/USERNAME/longitudinal-feature-selection-benchmark"
+repository-code: "https://github.com/bioinfoliu/longitudinal-feature-selection-benchmark"
 
