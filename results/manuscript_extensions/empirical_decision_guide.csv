@@ -1,0 +1,8 @@
+DataSetting,Tasks,BestObserved,Interpretation
+Classification outcome,5,LLSS (4.64); LongGroupLasso (4.85); mRMR (5.11),Exploratory benchmark guidance; validate within the target cohort.
+Continuous or ordinal outcome,9,LongGroupLasso (5.33); Stabl-RP (5.46); OutcomeSNN-FS (5.99),Exploratory benchmark guidance; validate within the target cohort.
+At most two median visits,7,LongGroupLasso (4.86); mRMR (5.06); Stabl-RP (5.27),Exploratory benchmark guidance; validate within the target cohort.
+Three to four median visits,5,ElasticNet (5.02); LongGroupLasso (5.49); Lasso (5.91),Exploratory benchmark guidance; validate within the target cohort.
+More than four median visits,2,LLSS (4.24); MutualInfo (4.96); LongGroupLasso (5.35),Exploratory benchmark guidance; validate within the target cohort.
+Feature to participant ratio below one,8,LongGroupLasso (4.96); OutcomeSNN-FS (5.71); Stabl-RP (5.77),Exploratory benchmark guidance; validate within the target cohort.
+Feature to participant ratio at least one,6,LLSS (4.43); mRMR (5.04); LongGroupLasso (5.43),Exploratory benchmark guidance; validate within the target cohort.

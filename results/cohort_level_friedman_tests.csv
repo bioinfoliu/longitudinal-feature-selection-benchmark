@@ -1,0 +1,3 @@
+Scope,Methods,Cohorts,ChiSquare,PValue,NemenyiCD05
+Source cohorts: classification,12,4,12.674540682414706,0.31512833073726065,8.331807890675329
+Source cohorts: regression,13,5,10.41322314049587,0.5797575496835063,8.159475334017964
